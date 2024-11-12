@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyChatBot</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send_button">Send</string>
+    <string name="user_message_default">User message</string>
+    <string name="send_message">Send Message</string>
+    <string name="bot_message_default">Bot message</string>
+</resources>
